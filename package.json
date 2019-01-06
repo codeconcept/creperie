@@ -1,0 +1,16 @@
+{
+  "name": "creperie",
+  "version": "1.0.2",
+  "description": "faker that sends galettes and crepes",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "faker",
+    "galettes",
+    "crepes"
+  ],
+  "author": "codeconcept",
+  "license": "ISC"
+}
