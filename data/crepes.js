@@ -41,4 +41,4 @@ crepes = [
   },
 ];
 
-module.exports = { nb: crepes.length, data: { name: 'galettes', items: crepes }};
+module.exports = { nb: crepes.length, data: { name: 'crêpes', items: crepes }};

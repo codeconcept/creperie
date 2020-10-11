@@ -24,7 +24,7 @@ console.log('creperie.crepe.getCrepeByName()', creperie.crepe.getCrepeByName('pl
 console.log('creperie.galette.getGaletteByName()', creperie.galette.getGaletteByName('complete'));
 ```
 
-Get crepe or galette by name
+Get specific number or crepes or galettes
 ```js
 const creperie = require('creperie');
 

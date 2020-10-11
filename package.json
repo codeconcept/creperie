@@ -1,6 +1,6 @@
 {
   "name": "creperie",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "faker that sends galettes and crepes",
   "main": "index.js",
   "scripts": {
